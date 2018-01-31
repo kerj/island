@@ -1,0 +1,25 @@
+body  {
+  background-image:url(../img/poleaxe.jpg);
+}
+
+h1, h2, h3  {
+  color: red;
+  border-width: thick;
+  border-style: groove;
+  text-align: center;
+  background-color: black;
+}
+
+li  {
+  display: inline-block;
+  background-color: red;
+  border: thick;
+  border-style: groove;
+  border-color: black;
+
+}
+
+li:hover  {
+  opacity: 0.5;
+  filter: alpha(opacity=50);
+}
