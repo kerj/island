@@ -2,7 +2,7 @@ body  {
   background-color: rgb(114, 169, 79);
 }
 
-h1  {
+h1, h3  {
   text-align: center;
   color: rgb(113, 73, 3);
 }
