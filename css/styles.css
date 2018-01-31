@@ -1,0 +1,23 @@
+body  {
+  background-color: rgb(114, 169, 79);
+}
+
+h1  {
+  text-align: center;
+  color: rgb(113, 73, 3);
+}
+
+h2  {
+  text-align: left;
+  color: rgb(141, 91, 6)
+}
+
+li  {
+  display: inline;
+  float: inherit;
+  clear: both;
+  padding-left: 10px;
+  padding-right: 10px;
+  border: solid;
+  background-color: rgb(121, 133, 14);
+}
